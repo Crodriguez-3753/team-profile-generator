@@ -10,16 +10,18 @@ async function main(){
         // ask questions 
         // render new manger based on object props 
         // push to htmlCardArray
+        // to mainMeu
     
-    // generate manager
+    // generate Engineer
         // ask questions 
         // render new manger based on object props 
         // push to htmlCardArray
     
-    // generate manager
+    // generate Intern
         // ask questions 
         // render new manger based on object props 
         // push to htmlCardArray
+        // back to mainMenu
 
     // mainMenu func
         // generate Engineer
