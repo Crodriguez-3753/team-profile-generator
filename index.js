@@ -4,6 +4,7 @@ const Employee = require("./lib/Employee");
 
 async function main(){
     
+    console.log(questions.internQuestions)
     // htmlCardArray = [];
 
     // generate manager
